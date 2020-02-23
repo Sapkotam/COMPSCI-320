@@ -1,4 +1,4 @@
 # COMPSCI-320
-COMPSCI 320 software engineering
+COMPSCI 320 software engineering <br>
 
-this repository for COMPSCI 320 software engineering projects Fall 2019
+this is just a test repository for COMPSCI 320 software engineering projects Fall 2019
